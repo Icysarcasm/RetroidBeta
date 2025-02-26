@@ -1,0 +1,12 @@
+{
+  "name": "RETROID",
+  "short_name": "RETROID",
+  "id": "com.example.gamename",
+  "description": "Beta Test for RETROID",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
